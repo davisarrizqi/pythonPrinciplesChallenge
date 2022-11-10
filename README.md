@@ -14,7 +14,7 @@ Maybe this script can be useful when you
 want to get the better value for display
 some value like for innerHTML with flask
 
-<code>
+```
 import math
 
 def format_number(myNumber):
@@ -52,7 +52,6 @@ def format_number(myNumber):
         
 # Debug for our Result
 print(format_number(10000000000000000))
-
-</code>
+```
     
 # ENJOY!
