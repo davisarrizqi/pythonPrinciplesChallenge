@@ -1,4 +1,4 @@
-# [ PYTHON PRINCIPLES CHALLENGE ]
+# [ PYTHON PRINCIPLES CHALLENGE ] - SOLUTION
 
 This is a solution for Python Principles Challenge,
 you can use this script if you're stuck when you
