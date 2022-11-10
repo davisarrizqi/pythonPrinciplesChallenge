@@ -4,8 +4,6 @@ This is a solution for Python Principles Challenge,
 you can use this script if you're stuck when you
 try to finish the Python Principles Challenge
 
-This repository is created by Davis
-
 
 
 # CODE SAMPLE - THOUSAND SEPARATOR
@@ -58,3 +56,4 @@ print(format_number(10000000000000000))
 <code>10,000,000,000,000,000</code>
 
 # NOW ENJOY AND HAPPY CODE!
+This repository is created by Davis
